@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jycVd8CxoiaBKfyMa23+aHw0gAd7eB2wi7QSw7pLivDfNcJ4MA+kMA8Pi7Qu0b7/H+VMHJVGTk/f2R7oIhfsnA==",
+  "dgSpecHash": "WI2Vn3WOZ3aTUanj/eXQeOVEziYYoUf/6K23IsC3ilYXas0P8ih3BtoEoAKWXAehXO5AJ0po801cWoBuPlJ/fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\AnimaPet\\AnimaPet.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\AnimaPet\\AnimaPet-API\\AnimaPet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

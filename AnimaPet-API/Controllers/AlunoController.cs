@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AnimaPet.Controllers
 {
-    [Route("/api/v1/Aluno")]
+    [Route("/api/v1/alunos")]
     [ApiController]
     public class AlunoController : Controller
     {
